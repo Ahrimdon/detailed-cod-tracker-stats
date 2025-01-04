@@ -5,7 +5,7 @@ import PyInstaller.__main__
 
 # Constants for your project
 SCRIPT = "get_cod_stats.py"
-ICON = "assets/build/icon/icon.ico"
+ICON = "assets/icon.ico"
 NAME = "get_cod_stats"
 DIST_PATH = "bin"
 

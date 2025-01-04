@@ -1,8 +1,0 @@
-asyncio
-datetime
-enum34
-requests
-twine
-urllib3
-uuid
-sphinx-tabs
